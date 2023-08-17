@@ -29,12 +29,14 @@ body{
 	float:right;
 	width:75%;
 	color:black;
-		font-family:sans-serif;
+		font-family:monospace;
 
 }
 #homework{
 	background-color: yellow;
 }
+
+
 h1{
 	font-weight:normal;
 	margin-top:15px;
@@ -44,6 +46,10 @@ p{
 	line-height:120%;
 	font-size:1.25em;
 
+}
+
+#homework p{
+	padding:10px;
 }
 
 @media (max-width:800px){
