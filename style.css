@@ -1,0 +1,47 @@
+>
+*{
+	margin:0;
+	padding:0;
+		background-color:light grey;
+
+}
+
+body{
+}
+
+#container{
+	margin:20px;
+	width:90%;
+
+}
+
+#info{
+	position:fixed;
+	float:left;
+	width:20%;
+		font-family:monospace;
+		color:blue;
+
+}
+
+#content{
+	position: relative;
+	float:right;
+	width:75%;
+	color:black;
+		font-family:sans-serif;
+
+}
+#homework{
+	background-color: yellow;
+}
+h1{
+	font-weight:normal;
+	margin-top:15px;
+}
+
+p{
+	line-height:120%;
+	font-size:1.25em;
+
+}
