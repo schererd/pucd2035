@@ -45,3 +45,18 @@ p{
 	font-size:1.25em;
 
 }
+
+@media (max-width:800px){
+	#info{
+		width:90%;
+		position:relative;
+		float:left;
+	}
+
+
+	#content{
+		float:left;
+		width:90%;
+	}
+
+}
