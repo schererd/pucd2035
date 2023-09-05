@@ -52,6 +52,12 @@ p{
 	padding:10px;
 }
 
+li{
+		line-height:120%;
+	font-size:1.25em;
+padding:10px;
+}
+
 @media (max-width:800px){
 	#info{
 		width:90%;
